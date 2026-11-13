@@ -1,6 +1,6 @@
 # 数学奇妙笔记本动态画廊
 
-公开网站发布产物，当前版本 v20（2026-11-12）。
+公开网站发布产物，当前版本 v21（2026-11-14）。
 
 网站地址：https://huxiaoqun.github.io/math-notebook-site/
 
@@ -9,3 +9,5 @@
 此仓库仅保存网站构建成品。源码及原书资料在独立私有仓库维护。
 
 v15 对照：https://huxiaoqun.github.io/math-notebook-site/versions/v15/
+
+书籍与老师二维码页：https://huxiaoqun.github.io/math-notebook-site/about.html
